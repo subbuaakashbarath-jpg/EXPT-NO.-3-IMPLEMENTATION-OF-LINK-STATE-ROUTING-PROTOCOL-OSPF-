@@ -67,7 +67,7 @@ After configuring both routers, you can verify the OSPF configuration:
 1. Check OSPF Neighbors on Router0:
 Router0# show ip ospf neighbor.
 
-# OUTPUT
+# OUTPUT 
 <img width="1593" height="779" alt="image" src="https://github.com/user-attachments/assets/0c66aba2-36c9-4771-a4b0-45749e1a943e" />
 
 <img width="1586" height="777" alt="image" src="https://github.com/user-attachments/assets/01ef9e7d-8f91-4893-8a19-84c8f291fde6" />
